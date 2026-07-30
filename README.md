@@ -2,7 +2,7 @@
 Analyzed Instagram user data across 7 relational tables using SQL to uncover engagement patterns, retention gaps, and influencer opportunities. Used window functions, CTEs, and segmentation to identify power users and top hashtags, delivering a data-driven marketing action plan for Meta's team.
 # Instagram Engagement Analysis — SQL Analytics Project
 
-A SQL-driven analysis of Instagram user activity data, built to help Meta's Marketing team uncover engagement, retention, and influencer-marketing opportunities using pure SQL — no spreadsheet tools.
+A SQL-driven analysis of Instagram user activity data, built to help Meta's Marketing team uncover engagement, retention, and influencer-marketing opportunities using SQL and spreadsheet tools.
 
 ## 📌 Project Overview
 
@@ -66,6 +66,7 @@ The `.sql` script is organized into objective and subjective question sets, usin
 ## 🛠️ Tools Used
 
 - **SQL** — joins, CTEs, window functions, CASE-based segmentation, data quality auditing
+- **Excel** - pivots and charts
 - **PowerPoint** — insights and recommendation presentation
 - **Word** — written analytical report
 
